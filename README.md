@@ -2,6 +2,9 @@
 
 Live demo: https://shivjain123.github.io/mocha-web-demos/
 
+<img width="921" height="545" alt="image" src="https://github.com/user-attachments/assets/9bb14bfb-3bf1-44ba-8c2c-ca97b8699942" />
+
+
 A CAPE (convective available potential energy) calculator written in
 [Mocha](https://github.com/shivjain123/My_lang_Mocha) and compiled to
 WebAssembly with `mocha wasm cape_demo.mch`. The calculation runs entirely
